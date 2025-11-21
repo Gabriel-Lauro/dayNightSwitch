@@ -6,7 +6,7 @@
 
 ### Preview
 <p align="center">
-  ![Preview do Day Night Switch](assets/preview.gif)
+  ![Preview do Day Night Switch](preview.gif)
 </p>
 
 ---
