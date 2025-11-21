@@ -5,7 +5,9 @@
 ---
 
 ### Preview
-"gif em breve"
+<p align="center">
+  ![Preview do Day Night Switch](assets/preview.gif)
+</p>
 
 ---
 
