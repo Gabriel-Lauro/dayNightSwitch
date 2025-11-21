@@ -7,7 +7,7 @@
 ### Preview
 
 <p align="center">
-  <img src="assets/preview.gif" alt="Preview" width="500">
+  <img src="preview.gif" alt="Preview" width="500">
 </p>
 
 ---
