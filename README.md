@@ -4,7 +4,17 @@
 
 ---
 
-### Preview
+### 🔗 Demo (CodePen)
+
+<p align="center">
+  <a href="https://codepen.io/gabriel_cxz/pen/VYaJXyL" target="_blank">
+    👉 Ver no CodePen
+  </a>
+</p>
+
+---
+
+### 👀 Preview
 
 <p align="center">
   <img src="preview.gif" alt="Preview" width="500">
@@ -12,9 +22,7 @@
 
 ---
 
-### Sobre
+### 📖 Sobre
 
-Só um botão estilizado com CSS que troca o tema (dia/noite).  
-Nada complexo — só aparência e transição suave.
-
----
+Só um botão estilizado com **CSS** que alterna entre **modo dia e noite**.
+Nada complexo — apenas aparência, animação e uma transição suave.
